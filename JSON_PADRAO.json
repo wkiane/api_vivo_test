@@ -49,6 +49,98 @@
                "desconto":0,
                "valor_com_desconto":49.99
             }
+         },
+         {  
+            "id_plano":0,
+            "tipo_plano":null,
+            "tipo_oferta":null,
+            "tipo_combo":"SINGLE",
+            "simulador":null,
+            "sku":"CTRL002DE",
+            "nome":"VIVO CONTROLE DIGITAL 3,5GB ILIM",
+            "info_plano":{  
+               "sku":"CTRL002DE",
+               "produto":"VIVO CONTROLE",
+               "titulo":"Ligações Ilimitadas",
+               "apps":{  
+                  "total":5,
+                  "imagens":[  
+                     "whatsapp.svg",
+                     "waze.svg",
+                     "moovit.svg",
+                     "cabify.svg",
+                     "easy.svg"
+                  ],
+                  "titulo":"Apps ilimitados"
+               },
+               "plano":"VIVO CONTROLE DIGITAL 3,5GB ILIM",
+               "IdCrm":null,
+               "dados":"4GB",
+               "campanha":"default",
+               "dados_detalhe":"3,5GB + 500MB de bônus**",
+               "apps_add":null,
+               "view":"TRUE",
+               "descricao":"para qualquer operadora do Brasil",
+               "tipo_fatura":"Digital",
+               "detalhe":[  
+                  "Ligações ilimitadas para qualquer operadora do Brasil",
+                  "WhatsApp Ilimitado Para mensagens, vídeos, fotos e chamadas de voz.",
+                  "Apps de conteudo exclusivo: Sync, GoRead e NBA",
+                  "SMS ilimitado para qualquer operadora do Brasil."
+               ]
+            },
+            "valores_plano":{  
+               "valor_oferta":49.99,
+               "taxa_instalacao":0,
+               "desconto":0,
+               "valor_com_desconto":49.99
+            }
+         },
+         {  
+            "id_plano":0,
+            "tipo_plano":null,
+            "tipo_oferta":null,
+            "tipo_combo":"SINGLE",
+            "simulador":null,
+            "sku":"CTRL002DE",
+            "nome":"VIVO CONTROLE DIGITAL 3,5GB ILIM",
+            "info_plano":{  
+               "sku":"CTRL002DE",
+               "produto":"VIVO CONTROLE",
+               "titulo":"Ligações Ilimitadas",
+               "apps":{  
+                  "total":5,
+                  "imagens":[  
+                     "whatsapp.svg",
+                     "waze.svg",
+                     "moovit.svg",
+                     "cabify.svg",
+                     "easy.svg"
+                  ],
+                  "titulo":"Apps ilimitados"
+               },
+               "plano":"VIVO CONTROLE DIGITAL 3,5GB ILIM",
+               "IdCrm":null,
+               "dados":"4GB",
+               "campanha":"default",
+               "dados_detalhe":"3,5GB + 500MB de bônus**",
+               "apps_add":null,
+               "view":"TRUE",
+               "descricao":"para qualquer operadora do Brasil",
+               "tipo_fatura":"Digital",
+               "detalhe":[  
+                  "Ligações ilimitadas para qualquer operadora do Brasil",
+                  "WhatsApp Ilimitado Para mensagens, vídeos, fotos e chamadas de voz.",
+                  "Apps de conteudo exclusivo: Sync, GoRead e NBA",
+                  "SMS ilimitado para qualquer operadora do Brasil."
+               ]
+            },
+            "valores_plano":{  
+               "valor_oferta":49.99,
+               "taxa_instalacao":0,
+               "desconto":0,
+               "valor_com_desconto":49.99
+            }
          }
       ]
    }
